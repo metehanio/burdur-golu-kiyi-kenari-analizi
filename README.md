@@ -73,9 +73,9 @@ _Göl, 40 yıllık periyotta çevresel etkiler, kuraklık ve bataklık formasyon
 ![](https://raw.githubusercontent.com/metehanio/burdur-golu-kiyi-kenari-analizi/refs/heads/master/%C3%87%C4%B1kt%C4%B1/K%C4%B1y%C4%B1%20Kenar%20De%C4%9Fi%C5%9Fim%20Analizi%20-%20G%C3%B6l%20-%20Kademe.png)
 
 ---
-
 ## Rapor
 
 Yapılan tüm bu uzaktan algılama işlemleri, analiz metodolojisi ve elde edilen bulgular detaylı bir şekilde belgelendirilmiştir. Oluşturulan bu belge, proje dizini altındaki **`Rapor`** klasörü içerisinde **"Burdur Gölü Kıyı Kenar ve Alan Değişimi Analizi (1984–2024) Raporu"** ismiyle yer almaktadır.
+## Sunum
 
-![[Burdur Gölü Kıyı Kenar ve Alan Değişimi Analizi (1984–2024) Raporu.pdf]]
+Yapılan tüm bu uzaktan algılama işlemleri, analiz metodolojisi ve elde edilen bulgular görselleştirilerek bir sunum haline getirilmiştir. Oluşturulan bu belgeler, proje dizini altındaki **`Sunum`** klasörü içerisinde **"Burdur Gölü Kıyı Kenar ve Alan Değişimi Analizi (1984–2024) Sunumu.pdf"** ve **"Burdur Gölü Kıyı Kenar ve Alan Değişimi Analizi (1984–2024) Sunumu.ppsx"** isimleriyle yer almaktadır.
